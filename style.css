@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+}
+hr {
+    border: 1px solid black;
+}
+
+.courses-list {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.lul-1 li{
+    background-color: red;
+    width: fit-content;
+    color: green;
+}
+
